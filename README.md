@@ -119,7 +119,7 @@ DELETE /expenses/{id}
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/harshitmishra-90/Expense-Tracker.git
 
 cd expense-tracker
 
